@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切如來金剛三業最上祕密大教王經
+#+DATE: 2015-08-30 20:24:42.450568
+#+PROPERTY: JUAN 0
