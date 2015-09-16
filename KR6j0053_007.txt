@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:42.158963
+#+DATE: 2015-08-30 20:24:46.284292
 #+TITLE: 佛說一切如來金剛三業最上祕密大教王經
 #+PROPERTY: CBETA_ID T18n0885
 #+PROPERTY: ID KR6j0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 885
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0053_T_000-0469c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0053_T_007-0505a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 佛說一切如來金剛三業最上祕¶
+佛說一切如來金剛三業最上祕¶
 密大教王經卷第七¶
 ¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
@@ -142,13 +141,9 @@
 ¶
 ¶
 
-18宣說一切祕密行金剛加持分
-:PROPERTIES:
-:head: 《一切如來金剛三業最上甚深祕密中祕密¶
+《一切如來金剛三業最上甚深祕密中祕密¶
 諸佛大集會》宣說一切祕密行金剛加持分第¶
-十八
-:END:
-¶
+十八¶
 
 爾時慈氏菩薩摩訶薩。在大會中見諸如來¶
 宣說一切如來灌頂身語心祕密法門。如所¶
@@ -562,7 +557,7 @@
 　集諸成就事¶
 　婆誐曼拏羅
 　菩提心境界¶
-　禰㰠曼拏羅
+　禰[亢*欠]曼拏羅
 　出生諸儀軌¶
 　一印及諸印
 　乃至蘊處界¶
