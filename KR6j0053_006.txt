@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:42.118856
+#+DATE: 2015-08-30 20:24:45.721007
 #+TITLE: 佛說一切如來金剛三業最上祕密大教王經
 #+PROPERTY: CBETA_ID T18n0885
 #+PROPERTY: ID KR6j0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 885
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6j0053_T_000-0469c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0053_T_006-0499c> 
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 佛說一切如來金剛三業最上祕¶
+佛說一切如來金剛三業最上祕¶
 密大教王經卷第六¶
 ¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
@@ -207,13 +206,9 @@
 
 此名一切如來真實金剛持明三昧。¶
 
-17一切如來三昧法金剛加持王分
-:PROPERTIES:
-:head: 《一切如來金剛三業最上甚深祕密中祕密¶
+《一切如來金剛三業最上甚深祕密中祕密¶
 諸佛大集會》一切如來三昧法金剛加持王分¶
-第十七
-:END:
-¶
+第十七¶
 
 爾時一切如來又復雲集。時諸如來又復各¶
 各以自三業。勸請世尊大毘盧遮那金剛如¶
